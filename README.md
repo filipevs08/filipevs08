@@ -1,6 +1,6 @@
 ### Olá! Esse é meu GitHub 👋
 
-- 📕 Estudando PHP
+- 📕 Estudando C
 ### Tools:
 ![VSCode](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=Visual%20studio%20code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
