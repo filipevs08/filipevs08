@@ -1,6 +1,5 @@
 ### Olá! Esse é meu GitHub 👋
 
-- 📕 Estudando NodeJs
 ### Tools:
 ![VSCode](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=Visual%20studio%20code&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=GIT&logoColor=white)
